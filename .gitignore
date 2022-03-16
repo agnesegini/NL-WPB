@@ -1,0 +1,6 @@
+*~
+*.sage.py
+*.dat
+*.pyc
+*.npy
+*.png
