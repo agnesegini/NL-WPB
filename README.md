@@ -1,5 +1,5 @@
-# NL-WPB
-## On the weightwise nonlinearity of weightwise perfecty balanced functions by Agnese Gini, Pierrick Méaux
+# On the weightwise nonlinearity of weightwise perfecty balanced functions 
+## Agnese Gini, Pierrick Méaux
 ### eprint: 
 
 - exhaustive.sage contains the code for exhaustively computing the distribution of the distance, i.e. implementation of Algorithm 2 of Section 5. 
