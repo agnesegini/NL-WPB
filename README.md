@@ -1,4 +1,4 @@
-# On the weightwise nonlinearity of weightwise perfecty balanced functions 
+# On the weightwise nonlinearity of weightwise perfectly balanced functions 
 ## Agnese Gini, Pierrick Méaux
 ### eprint: https://ia.cr/2022/408
 
